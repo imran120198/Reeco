@@ -1,0 +1,61 @@
+const avocado = require("../Assets/Avocado_Hass.jpg");
+
+const foodItems = [
+  {
+    id: 1,
+    name: "Chicken Breast Fillets",
+    brand: "Hormel Black Label",
+    price: 60.67,
+    quantity: 0,
+    total: 0,
+    status: "",
+    actions: "edit",
+    img: avocado,
+  },
+  {
+    id: 2,
+    name: "Chicken Breast Fillets",
+    brand: "Hormel Black Label",
+    price: 60.67,
+    quantity: 15,
+    total: 0,
+    status: "",
+    actions: "edit",
+    img: avocado,
+  },
+  {
+    id: 3,
+    name: "Chicken Breast Fillets",
+    brand: "Hormel Black Label",
+    price: 60.67,
+    quantity: 15,
+    total: 0,
+    status: "",
+    actions: "edit",
+    img: avocado,
+  },
+  {
+    id: 4,
+    name: "Chicken Breast Fillets",
+    brand: "Hormel Black Label",
+    price: 60.67,
+    quantity: 15,
+    total: 0,
+    status: "",
+    actions: "edit",
+    img: avocado,
+  },
+  {
+    id: 5,
+    name: "Chicken Breast Fillets",
+    brand: "Hormel Black Label",
+    price: 60.67,
+    quantity: 0,
+    total: 0,
+    status: "",
+    actions: "edit",
+    img: avocado,
+  },
+];
+
+export default foodItems;
